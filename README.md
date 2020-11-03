@@ -5,4 +5,4 @@ A destroyer object follows at the back of the camera and destroys the spawned ob
 The player can also choose a car of his own and the settings are stored when quitting the application.<br>
 <br>
 ## Demo Video<br>
-[![Ziggy](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=41yRhWAhpzs "Ziggy")
+[![Ziggy](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=41yRhWAhpzs&t=3s "Ziggy")
