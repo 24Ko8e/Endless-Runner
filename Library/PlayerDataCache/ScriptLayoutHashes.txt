@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-A:/Unity Engine/Projects/Game/build/Ziggy.exe
+A:/Github/Endless-Runner/build/Ziggy.exe
 SceneListBegin?
 Assets/Scenes/Menu.unity
 Assets/Scenes/GameScene1.unity
@@ -161,8 +161,8 @@ fb6e43052f87da23d4d5147c9acf1798 Assembly-CSharp.dll:.ObstacleRotation
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 5311d8c34fcc8d878131c3abab940603 Assembly-CSharp.dll:.Spawner
 c4cfd0b2b5386dae9e35c8f979214774 Assembly-CSharp.dll:.music
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MyUnitySingleton
 61c792be3d0cec97b4e7549b2ee0a099 Assembly-CSharp.dll:.ObstacleTraverse
 5d5ac48a0871a6bcf830f98159ecd281 Assembly-CSharp.dll:.CameraMovement
 8f0c4f29e56aeee02fc49e0dc5ff2180 Assembly-CSharp.dll:.SetCar
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ButtonAction
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MyUnitySingleton
