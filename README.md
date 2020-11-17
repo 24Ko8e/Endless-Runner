@@ -5,4 +5,6 @@ A destroyer object follows at the back of the camera and destroys the spawned ob
 The player can also choose a car of his own and the settings are stored when quitting the application.<br>
 <br>
 ## Demo Video<br>
-[![Ziggy](http://img.youtube.com/vi/41yRhWAhpzs/0.jpg)](https://www.youtube.com/watch?v=41yRhWAhpzs "Ziggy")
+[![Ziggy](http://img.youtube.com/vi/41yRhWAhpzs/0.jpg)](https://www.youtube.com/watch?v=41yRhWAhpzs "Ziggy")<br>
+<br>
+<iframe frameborder="0" src="https://itch.io/embed/824225?border_width=5" width="560" height="175"><a href="https://ko8e.itch.io/endless-runner">Endless-runner by ko8e</a></iframe>
