@@ -7,4 +7,25 @@ The player can also choose a car of his own and the settings are stored when qui
 ## Demo Video<br>
 [![Ziggy](http://img.youtube.com/vi/41yRhWAhpzs/0.jpg)](https://www.youtube.com/watch?v=41yRhWAhpzs "Ziggy")<br>
 <br>
-<iframe frameborder="0" src="https://itch.io/embed/824225?border_width=5" width="560" height="175"><a href="https://ko8e.itch.io/endless-runner">Endless-runner by ko8e</a></iframe>
+<style type="text/css">
+    .gd__aspect-ratio-box {
+        position: relative;
+        overflow: hidden;
+        height: 0;
+        /*padding-top: 56.25%; !* 16:9 Aspect Ratio *!*/
+        padding-top: 75%; /* 4:3 Aspect Ratio */
+        /*padding-top: 66.66%; !* 3:2 Aspect Ratio *!*/
+        /*padding-top: 62.5%; !* 8:5 Aspect Ratio *!*/
+    }
+    .gd__aspect-ratio-box iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border-radius: 2px;
+    }
+</style>
+<div class="gd__aspect-ratio-box">
+    <iframe frameborder="0" src="https://itch.io/embed/824225?linkback=true&amp;border_width=5" width="560" height="175"><a href="https://ko8e.itch.io/endless-runner">Endless-runner by ko8e</a></iframe>
+</div>
