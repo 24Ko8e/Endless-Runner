@@ -4,7 +4,8 @@ A spawner object keeps spawning obstacles between random range of intervals whic
 A destroyer object follows at the back of the camera and destroys the spawned obstacles. This way of object pooling is not recommended as it is very expensive on the CPU. Instead of destroying the objects, they should be disabled.<br>
 The player can also choose a car of his own and the settings are stored when quitting the application.<br>
 <br>
+[Play it now!](https://ko8e.itch.io/endless-runner)<br>
+<br>
 ## Demo Video<br>
 [![Ziggy](http://img.youtube.com/vi/41yRhWAhpzs/0.jpg)](https://www.youtube.com/watch?v=41yRhWAhpzs "Ziggy")<br>
 <br>
-[Play it now!](https://ko8e.itch.io/endless-runner)
