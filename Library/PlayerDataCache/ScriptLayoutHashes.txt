@@ -1,6 +1,6 @@
-WindowsStandalone
+WebGL
 PlayerPath?
-A:/Github/Endless-Runner/build/Ziggy.exe
+C:/Users/abhis/Desktop/web
 SceneListBegin?
 Assets/Scenes/Menu.unity
 Assets/Scenes/GameScene1.unity
